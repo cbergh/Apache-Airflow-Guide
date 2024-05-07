@@ -131,6 +131,7 @@
 # Apache Airflow Tools, Libraries, and Frameworks
 [Back to the Top](https://github.com/mikeroyal/Apache-Airflow-Guide#table-of-contents)
 
+[DataKitchen Open Source Data Observability](https://docs.datakitchen.io/articles/?readerUiPreview=1#!open-source-data-observability/data-observability-overview) - End to end Data Journey Observability plus data profiling, anomaly detection, and auto created data quality validation tests.  With UI. Apache 2.0 license. Airflow Integration.
 
 [Astronomer](https://www.astronomer.io/) is a fully managed Apache Airflow in [Astronomer Cloud](https://www.astronomer.io/docs/cloud/), or self-hosted within your environment.
 
